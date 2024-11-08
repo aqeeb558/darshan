@@ -1,0 +1,92 @@
+DA-1
+
+1. Explain Diff-Hellman (D-H) Algorithm?
+2. list and Explain Steps in Hacking.
+3.Explain SDLC.
+4. list the Different Vulnerability in OSI Model.
+
+DA-2
+
+1.Working Principle of Digital Signature?
+2. Working principle of MAC.
+3. Working Principle of Hashing.
+4. Vulnerability Management Life Cycle & List the Types of Vulnerability.
+
+DA-3
+
+1. List the Types of Malware  and Hackers.
+2. Top 10 OWASP Common Web Vulnerability.
+3. IOS Security Architecture Diagram.
+4. Android Security Application Architecture Diagram.
+
+DA-4
+
+1.Advantages of Firewall? List the Types of Firewall.
+2. Top 10 OWASP Common Android/mobile Vulnerability.
+3. Explain MC-Cumber cube?
+4. Explain HTTP methods.
+
+DA-5
+
+1. Need/Benefits of Defence in Depth & list some Examples.
+2. Difference Between DOS & DDOS.
+3. Difference Between Symmetric Key And Asymmetric key.
+4. Explain PKI components.
+
+DA-6
+
+1. Explain cloud Deployment Model?
+2. Explain Cloud Services Model?
+3. Benefits and Types of Penetration testing?
+4.Difference between Static code Analysis and Dynamic code Analysis
+
+DA-7
+
+1. Write a Note on IAM?
+2. List the IAM Top 10 Best practices.
+3. Explain Incident Management Life cycle?
+4.Explain Defence in Depth Safe Guard Software and data?
+
+DA-8
+
+1. Explain Incident Management Stages and Steps?
+2.List the Incident Management Benefits?
+3.List the Incident Management Best Practices?
+4. List and Explain Need of Static code Analysis?
+
+DA-9
+
+1.Define CIA and AAA.
+2. List the Types of Firewall, IDS ,IPS.
+3. List the Cloud Vulnerability?
+4. Difference between Penetration testing and Vulnerability Assessment.
+
+DA-10
+
+1. Find GCD(125,625).
+2. Euler Totient function 0/  ( 2500 )
+3. Let P=5, Q=7 ,E=2 Find "D" using RSA algorithm?
+4. Find the shared secret key ,if P=11, Q=3, Xa=4, Xb=6 using (D-H) Algorithm.
+
+DA-11
+
+1.List the Incident Management Tools.
+2. List any 10 Data Security Best Practice's to protect the Data and System.
+3.List the Threat Modelling Needs and benefits.
+4.List the Threat modelling Methodologies.
+
+DA-12
+
+1. List the Needs and Benefits of Dynamic Code Analysis?
+2. Write a Note on Cloud Data Protection.
+3. Define RED team, BLUE team, PURPLE team?
+4. List the Activities of Blue team.
+
+DA-13
+
+1. List the Benefits of RED team?
+2. List the Activities of RED team?
+3. List the Goals and benefits of BLUE team?
+4. List the Goals and Benefits of PURPLE team?
+
+
